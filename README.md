@@ -1,3 +1,3 @@
 Adrian Poniatowski
 
-Grupa 2a
+Grupa 2b
