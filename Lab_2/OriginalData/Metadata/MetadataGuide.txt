@@ -1,0 +1,7 @@
+Plik - "tb.csv"
+Dostępny tutaj: https://github.com/KAIR-ISZ/public_lectures/blob/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets/tb.csv
+W celu pobrania tego pliku należy otworzyć jego wersję Raw, a następnie zapisać na swoim komputerze z odpowiednią nazwą i w dowolnej lokalizacji. 
+Oryginalny plik z danymi zawiera informacje o gruźlicy w różnych grupach pacjentów. Znajduje się w nim kilka zmiennych, do których należą: kod iso2, rok, ogólna ilość przypadków oraz zbiór kolumn, który przedstawia ilość przypadków zachorowania dla konkretnych płci i w konkretnym przedziale wiekowym. Charakterystyczne dla tego zbioru kolumn są trzy rzeczy:
+- nazwa każdej zmiennej zaczyna się od "new_sp_"
+- kolejne miejsce zajmuje jedna z literek, "m" to male, czyli mężczyzna, natomiast "f" to female, czyli kobieta
+- na końcu widoczny jest zakres wiekowy, który reprezentuje od dwóch do czterech cyfr.
