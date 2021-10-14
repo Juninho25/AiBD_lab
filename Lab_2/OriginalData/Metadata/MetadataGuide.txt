@@ -4,4 +4,4 @@ W celu pobrania tego pliku należy otworzyć jego wersję Raw, a następnie zapi
 Oryginalny plik z danymi zawiera informacje o gruźlicy w różnych grupach pacjentów. Znajduje się w nim kilka zmiennych, do których należą: kod iso2, rok, ogólna ilość przypadków oraz zbiór kolumn, który przedstawia ilość przypadków zachorowania dla konkretnych płci i w konkretnym przedziale wiekowym. Charakterystyczne dla tego zbioru kolumn są trzy rzeczy:
 - nazwa każdej zmiennej zaczyna się od "new_sp_"
 - kolejne miejsce zajmuje jedna z literek, "m" to male, czyli mężczyzna, natomiast "f" to female, czyli kobieta
-- na końcu widoczny jest zakres wiekowy, który reprezentuje od dwóch do czterech cyfr.
+- na końcu widoczny jest zakres wiekowy, który reprezentuje od dwóch do czterech cyfr. 
