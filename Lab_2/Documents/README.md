@@ -9,3 +9,12 @@ Następnym etapem prac był tak zwany "melting", czyli doprowadzenie danych do c
 Końcowy etap, nazwany "tidying", co można przetłumaczyć na sprzątanie, polegał na ostatecznym uporządkowaniu danych, aby jak najbardziej poprawić ich czytelność i przejrzystość. Głównymi działaniami w tym etapie przetwarzania danych była ekstrakcja danych z jednej kolumny na dwie oddzielne z informacją o płci oraz przedziale wiekowym. Do tego był mi potrzebny utworzony słownik, natomiast kolumna "column" po uzyskaniu z niej danych stała się bezużyteczna, więc została usunięta.
 
 Przetworzone dane zapisałem do nowego pliku, który, tak jak plik oryginalny, jest w formacie .csv.
+
+W celu uzyskania wykresów oraz szczegółowych danych dotyczących przetworzonego DataFrame'u napisałem skrypt pod nazwą DataAppendix.ipynb. Otrzymane informacje trafiły do pliku o takiej samej nazwie, tylko z innym rozszerzeniem, w folderze Documents.
+
+Struktura katalogów:
+Lab_2 - folder główny
+AnalysisData - folder zawierający przetworzone dane
+CommandFiles - folder zawierający skrypty: lab2.ipynb do przetwarzania danych oraz DataAppendix.ipynb do analizy tych danych
+Documents - folder zawierający plik README.md oraz DataAppendix.txt, a także obrazy przedstawiające wykresy
+OriginalData - folder zawierający oryginalny plik tb.csv oraz folder Metadata, w którym z kolei znajduje się plik z opisem oryginalnego pliku.

@@ -1,0 +1,44 @@
+Data appendix dla przetworzonego pliku: tb_clean.csv
+
+Head of data:
+  country  year sex   ages  cases
+0      AD  1996   m   0-14    0.0
+1      AD  1996   m  15-24    0.0
+2      AD  1996   m  25-34    0.0
+3      AD  1996   m  35-44    4.0
+4      AD  1996   m  45-54    1.0
+5      AD  1996   m  55-64    0.0
+6      AD  1996   m    65+    0.0
+
+Informacje o danych:
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 35513 entries, 0 to 35512
+Data columns (total 5 columns):
+ #   Column   Non-Null Count  Dtype  
+---  ------   --------------  -----  
+ 0   country  35513 non-null  object 
+ 1   year     35513 non-null  int64  
+ 2   sex      35513 non-null  object 
+ 3   ages     35513 non-null  object 
+ 4   cases    35513 non-null  float64
+dtypes: float64(1), int64(1), object(3)
+memory usage: 1.4+ MB
+
+
+Opis zmiennych numerycznych:
+               year         cases
+count  35513.000000  35513.000000
+mean    2002.019627    611.754315
+std        4.349940   3288.900135
+min     1980.000000      0.000000
+25%     1999.000000      4.000000
+50%     2002.000000     36.000000
+75%     2006.000000    244.000000
+max     2008.000000  90498.000000
+
+Opis zmiennych nienumerycznych:
+       country    sex   ages
+count    35513  35513  35513
+unique     212      2     10
+top         CA      m  45-54
+freq       420  17802   4789
