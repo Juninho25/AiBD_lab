@@ -1,0 +1,3 @@
+Plik - "1_KUJAWSKO-POMORSKIE.csv" jest dostępny tutaj https://github.com/KAIR-ISZ-ADB/laboratorium-6-Juninho25/blob/main/1_KUJAWSKO-POMORSKIE.csv.
+W celu pobrania tego pliku należy otworzyć jego wersję Raw, a następnie zapisać na swoim komputerze z odpowiednią nazwą i w dowolnej lokalizacji.
+Oryginalny plik z danymi zawiera informacje o ocenach odkurzaczy w jednej z sieci sklepów z województwa Kujawsko-Pomorskiego oraz dane kupujących, takie jak wiek, czy płeć. Zmienne, które znajdują się w pliku to: Dni od zakupu, Marka, Wiek kupującego, Płeć kupującego oraz Ocena. Dodatkowo w pliku znajduje się kolumna odpowiadająca za ID dla każdego konsumenta i ma ona nazwę 'Unnamed'. 
