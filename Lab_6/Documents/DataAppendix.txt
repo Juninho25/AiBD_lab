@@ -1,7 +1,7 @@
 Data appendix dla przetworzonego pliku: tb_clean.csv
 
 Head of data:
-   ID  Dni od zakupu       Marka  Wiek kupujÄ…cego PÅ‚eÄ‡ kupujÄ…cego  Ocena
+   ID  Dni od zakupu       Marka  Wiek kupuj¹cego P³eæ kupuj¹cego  Ocena
 0   0             13  Electrolux             38.0               K    2.5
 1   1              6        Beko             30.0               K    2.0
 2   2              6       Dyson             43.0               K    2.5
@@ -20,15 +20,15 @@ Data columns (total 6 columns):
  0   ID               458 non-null    int64  
  1   Dni od zakupu    458 non-null    int64  
  2   Marka            458 non-null    object 
- 3   Wiek kupujÄ…cego  413 non-null    float64
- 4   PÅ‚eÄ‡ kupujÄ…cego  384 non-null    object 
+ 3   Wiek kupuj¹cego  413 non-null    float64
+ 4   P³eæ kupuj¹cego  384 non-null    object 
  5   Ocena            458 non-null    float64
 dtypes: float64(2), int64(2), object(2)
 memory usage: 21.6+ KB
 
 
 Opis zmiennych numerycznych:
-               ID  Dni od zakupu  Wiek kupujÄ…cego       Ocena
+               ID  Dni od zakupu  Wiek kupuj¹cego       Ocena
 count  458.000000     458.000000       413.000000  458.000000
 mean   228.500000       7.074236        40.125908    2.465066
 std    132.357471       2.708070         9.558640    1.055818
@@ -39,7 +39,7 @@ min      0.000000       1.000000        18.000000    0.000000
 max    457.000000      17.000000        74.000000    5.000000
 
 Opis zmiennych nienumerycznych:
-        Marka PÅ‚eÄ‡ kupujÄ…cego
+        Marka P³eæ kupuj¹cego
 count     458             384
 unique      5               2
 top     Dyson               K
